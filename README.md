@@ -4,5 +4,6 @@ The app will count the receiving non-bank interests for the chosen time span acc
 It shows the results such as the lawfull interest/amount of money of each period, the default interest/amount of money of each period, the totals of them and the final amount of money.
 The results can be exported in MS Excel.
 The app is designed to be responsive at resizing. 
+https://www.bankofgreece.gr/statistika/xrhmatopistwtikes-agores/ekswtrapezika-epitokia
 (The records of non-bank interests rates start in 2000 and are up to date.)
 (Last update 16/7/20.)
